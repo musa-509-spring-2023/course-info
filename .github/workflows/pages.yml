@@ -40,7 +40,7 @@ jobs:
       - name: Install Build Dependencies
         run: npm install
       - name: Build Slides
-        run: npm slides
+        run: npm run slides
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
