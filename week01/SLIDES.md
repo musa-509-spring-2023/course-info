@@ -47,8 +47,8 @@ By the end of _this_ course, you'll have built your own data-centric operational
 
 ## Spatial Databases
 
-![bg vertical right:30% 80%](PostgreSQL_logo.webp)
-![bg right:30% 80%](PostGIS_logo.png)
+![bg vertical right:30% 80%](images/PostgreSQL_logo.webp)
+![bg right:30% 80%](images/PostGIS_logo.png)
 
 Databases are a super power once you learn a bit about them. We’ll learn lots of **SQL**, a very transferable skill
 
@@ -61,8 +61,8 @@ How we’ll use them:
 
 ## Large, messy datasets
 
-![bg vertical right:30% 80%](dbt-signature_tm.png)
-![bg right:30% 80%](GoogleBigQuery_logo.png)
+![bg vertical right:30% 80%](images/dbt-signature_tm.png)
+![bg vertical right:30% 80%](images/GoogleBigQuery_logo.png)
 
 We will work with large and/or messy datasets such as OpenStreetMap (global), US Census (national), Philadelphia Office of Property Assessment (local), SafeGraph (proprietary) and more, in a variety of formats.
 
@@ -75,9 +75,9 @@ We’ll cover:
 
 ## Data Visualization Platforms
 
-![bg vertical right:30% 70%](Carto_logo.png)
-![bg vertical right:30% 80%](Metabase_logo.png)
-![bg vertical right:30% 60%](Redash_logo.png)
+![bg vertical right:30% 70%](images/Carto_logo.png)
+![bg vertical right:30% 80%](images/Metabase_logo.png)
+![bg vertical right:30% 60%](images/Redash_logo.png)
 
 We'll get introduced to some common platforms for visualizing data stored in cloud repositories. These can be good for lightweight exploration of data, or quick prototyping of dashboards.
 
@@ -85,9 +85,9 @@ We'll get introduced to some common platforms for visualizing data stored in clo
 
 ## Enough scripting to be dangerous
 
-![bg vertical right:30% 80%](Python_logo.png)
-![bg right:30% 80%](Node.js_logo.png)
-![bg right:30% 80%](GoogleCloudFunctions_logo.png)
+![bg vertical right:30% 80%](images/Python_logo.png)
+![bg vertical right:30% 80%](images/Node.js_logo.png)
+![bg vertical right:30% 80%](images/GoogleCloudFunctions_logo.png)
 
 **Python** and **JavaScript** are powerful programming languages with a huge communities, which means that there are a lot of amazing packages.
 
@@ -107,7 +107,7 @@ Where possible, examples will be given in the approximately equivalent Python an
 <div class="columns-2">
 <div>
 
-![Python h:32](Python_icon.png)
+![Python h:32](images/Python_icon.png)
 
 ```py
 from flask import Flask
@@ -121,7 +121,7 @@ def hello_world():
 
 <div>
 
-![Node.js h:32](Node.js_icon.png)
+![Node.js h:32](images/Node.js_icon.png)
 
 ```js
 import express from 'express';
@@ -137,9 +137,9 @@ app.get('/', (req, res) => {
 
 ## Cloud Services
 
-![bg vertical right:30% 80%](GoogleCloudPlatform_logo.png)
-![bg right:30% 80%](MicrosoftAzure_logo.png)
-![bg right:30% 60%](AmazonWebServices_logo.png)
+![bg vertical right:30% 80%](images/GoogleCloudPlatform_logo.png)
+![bg vertical right:30% 80%](images/MicrosoftAzure_logo.png)
+![bg vertical right:30% 60%](images/AmazonWebServices_logo.png)
 
 Our final work will all be in the cloud!
 

@@ -8,7 +8,7 @@ Make sure you install PostGIS along with PostgreSQL.
 
 To create a database you can use PGAdmin. First, register your local PostgreSQL server:
 
-![Register server menu option](register_server_menu.png)
+![Register server menu option](images/register_server_menu.png)
 
 On the **General** tab, choose a name for the server as it will show up in the list on the left side of the window. Configure the **Connection** settings for how PGAdmin will connect to your database server. If you installed PostgreSQL correctly, then:
 * The **host** will probably be `localhost`
@@ -18,19 +18,19 @@ On the **General** tab, choose a name for the server as it will show up in the l
 
 You should be able to ignore the rest of the settings and click **Save**.
 
-![Register server connection options](register_server_connection.png)
+![Register server connection options](images/register_server_connection.png)
 
 # Make sure it worked!
 
 ## 1. Create a new database in your PostgreSQL server.
 
 Give the database some name (it doesn't matter what, as long as it's a valid SQL "identifier").
-![Create database menu option](create_database_menu.png)
+![Create database menu option](images/create_database_menu.png)
 
 ## 2. Enable PostGIS in the database.
 
 You must do this once for each PostgreSQL database where you want to use geometric or geographic data types that come with PostGIS. Open a query editor for the database you just created:
-![Open the query tool](query_tool_menu.png)
+![Open the query tool](images/query_tool_menu.png)
 
 In your query editor, enter the following SQL command and press the play (▶️) button.
 
@@ -110,8 +110,8 @@ FROM neighborhoods;
 
 If successful, you should see something like this:
 
-![Results of the neighborhoods query](neighborhoods_query.png)
+![Results of the neighborhoods query](images/neighborhoods_query.png)
 
 Click on the map icon next to the header of the `the_geog` column. You should see a map that looks something like this:
 
-![Map of neighborhoods](neighborhoods_map.png)
+![Map of neighborhoods](images/neighborhoods_map.png)
