@@ -37,10 +37,10 @@ jobs:
         with:
           node-version: 16.x
           cache: 'npm'
-      - name: Install Marp
-        run: npm install @marp-team/marp-cli
+      - name: Install Build Dependencies
+        run: npm install
       - name: Build Slides
-        run: npx marp --html **/SLIDES.md
+        run: npm slides
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
