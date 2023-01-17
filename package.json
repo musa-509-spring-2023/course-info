@@ -1,0 +1,20 @@
+{
+  "name": "course-info",
+  "version": "1.0.0",
+  "scripts": {
+    "slides": "npx marp --html **/SLIDES.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musa-509-spring-2023/course-info.git"
+  },
+  "author": "Mjumbe Poe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musa-509-spring-2023/course-info/issues"
+  },
+  "homepage": "https://github.com/musa-509-spring-2023/course-info#readme",
+  "dependencies": {
+    "@marp-team/marp-cli": "^2.3.0"
+  }
+}
