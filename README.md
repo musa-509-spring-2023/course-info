@@ -21,15 +21,15 @@ In this course you will learn how to collect, store, wrangle and display cartogr
 
 |  W#  |  Date  |  Topic  |  Notes  |
 |------|--------|---------|---------|
-|  1   |  Jan 18  |  Introduction  |  [Slides & Assignments](week01/)  |
-|  2   |  Jan 25  |  _Analytics_: Spatial Databases & Querying  |  [Slides & Assignments](week02/)  |
-|  3   |  Feb 1   |  _Analytics_: PostGIS & Geographical SQL Operations  |  [Slides & Assignments](week03/)  |
-|  4   |  Feb 8   |  _Analytics_: Advanced PostGIS  |  [Slides & Assignments](week04/)  |
-|  5   |  Feb 15  |  _Analytics_: GIS in Cloud Services (with BigQuery)  |  [Slides & Assignments](week05/)  |
-|  6   |  Feb 22  |  _Scripting_: Python for Geographical Analysis  |  [Slides & Assignments](week06/)  |
-|  7   |  Mar 1   |  _Scripting_: Accessing Data Services over HTTP  |  [Slides & Assignments](week07/)  |
+|  1   |  Jan 18  |  Introduction  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week01/SLIDES.html) & [More](week01/)  |
+|  2   |  Jan 25  |  _Analytics_: Spatial Databases & Querying  |    |
+|  3   |  Feb 1   |  _Analytics_: PostGIS & Geographical SQL Operations  |    |
+|  4   |  Feb 8   |  _Analytics_: Advanced PostGIS  |    |
+|  5   |  Feb 15  |  _Analytics_: GIS in Cloud Services (with BigQuery)  |    |
+|  6   |  Feb 22  |  _Scripting_: Python for Geographical Analysis  |    |
+|  7   |  Mar 1   |  _Scripting_: Accessing Data Services over HTTP  |    |
 |  -   |  Mar 8   |  -  |  -  |
-|  8   |  Mar 15  |  _Scripting_: Working with Cloud Services from Python  |  [Slides & Assignments](week08/)  |
+|  8   |  Mar 15  |  _Scripting_: Working with Cloud Services from Python  |    |
 |  9   |  Mar 22  |  _Pipelines_: Automating ETL Processes  |   |
 |  10  |  Mar 29  |  _Pipelines_: Pipelining in the Cloud  |   |
 |  11  |  Apr 5   |  _Pipelines_: Modeling and Transforming Data  |   |

@@ -1,7 +1,3 @@
-## Slides
-
-...
-
 ## In-class Exercise
 
 * [Set up PostgreSQL and PostGIS](week01/ex_postgres.md)
