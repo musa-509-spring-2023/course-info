@@ -22,7 +22,7 @@ The class is divided into four modules:
 1. **Spatial Analytics with Databases** -- learn the basics of SQL and PostGIS for exploring datasets and answering questions of your data
 2. **Scripting with Cloud Services** -- building basic scripts with queries and interacting with web services/APIs programmatically
 3. **Data Pipelining** -- use Python or JavaScript and SQL to automate extracting, transforming, and loading data into a data warehouse
-4. **Building Dashboards** -- build a dashboard to answer operational questions using visualizations of dynamic data
+4. **Building Interfaces** -- build a dashboard and APIs to answer operational questions using dynamic representations data
 
 ## Course Schedule
 (subject to adapt to the flow of the semester)
@@ -33,16 +33,16 @@ The class is divided into four modules:
 |  2   |  Jan 25  |  _Analytics_: Spatial Databases & Querying  |    |
 |  3   |  Feb 1   |  _Analytics_: PostGIS & Geospatial SQL Operations  |    |
 |  4   |  Feb 8   |  _Analytics_: Efficient PostGIS  |    |
-|  5   |  Feb 15  |  _Analytics_: GIS in Cloud Services (with BigQuery)  |    |
+|  5   |  Feb 15  |  **-(OVERFLOW** -- _We'll introduce BigQuery and some out-of-the-box visualization options here, time permitting_ **)-**  |    |
 |  6   |  Feb 22  |  _Scripting_: Working with Data from Files and Web Services  |    |
 |  7   |  Mar 1   |  _Scripting_: Warehousing Data  |    |
-|  -   |  Mar 8   |  -  |  -  |
-|  8   |  Mar 15  |  _Pipelines_: Implementing ETL in Cloud Services  |    |
-|  9   |  Mar 22  |  _Pipelines_: Modeling and Transforming Geospatial Data  |   |
-|  10  |  Mar 29  |  _Dashboards_: Pipelining in the Cloud  |   |
-|  11  |  Apr 5   |  _Pipelines_: Modeling and Transforming Geospatial Data  |   |
-|  12  |  Apr 12  |  _Dashboards_: Working with Charts & Maps in HTML  |   |
-|  13  |  Apr 19  |  _Dashboards_: HTML Templating  |   |
+|  -   |  Mar 8   |  **-(SPRING BREAK)-**  |  -  |
+|  8   |  Mar 15  |  _Pipelines_: Modeling and Transforming Geospatial Data  |    |
+|  9   |  Mar 22  |  _Pipelines_: Implementing ETL in Cloud Services  |   |
+|  10  |  Mar 29  |  _Interfaces_: Open Source Business Intelligence Tools  |   |
+|  11  |  Apr 5   |  _Interfaces_: Rendering Data with Custom Applications (APIs and Templates)  |   |
+|  12  |  Apr 12  |    |   |
+|  13  |  Apr 19  |    |   |
 |  14  |  Apr 26  |   |   |
 |  15  |  May 3?  |  Final Project wrap-up  |   |
 
