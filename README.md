@@ -5,7 +5,9 @@
   * Jingyi Li, jingyili@design.upenn.edu
 * **Schedule:** Wednesdays, 10:15-1:15  
 * **Office Hours:**
-  * Mjumbe: Wednesdays immediately after class; Online Mondays & Thursday, 1-5 (or by appointment) - [book here](https://calendly.com/mjumbe-upenn/office-hours)
+  * Mjumbe:
+    * In person Wednesdays immediately after class, first-come first-served
+    * Online Mondays & Thursday, 1-5 (or by appointment) - [book here](https://calendly.com/mjumbe-upenn/office-hours)
 * **Room:** Meyerson Hall, B2
 
 [Description](#description) | [Schedule](#course-schedule) | [Objectives](#course-objectives) | [Format](#format) | [Assignments](#assignments) | [Grading](#grading) | [Academic Integrity](#academic-integrity)
