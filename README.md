@@ -2,15 +2,17 @@
 
 **Instructor(s):**
   * Mjumbe Poe, mjumbe@design.upenn.edu  
-  * ...
+  * Jingyi Li, jingyili@design.upenn.edu
+
 **Schedule:** Wednesdays, 10:15-1:15  
+
 **Office Hours:**
   * Mjumbe: Mondays & Wednesdays, 2:15-3:30 (or by appointment) - [book here](https://calendly.com/mjumbe-upenn/office-hours)
-**Room:** Graduate Education Building, 114 
 
+**Room:** Meyerson Hall, B2
+
+* [Schedule](#course-schedule)
 * [Syllabus](syllabus.md)
-* [Schedule](schedule.md)
-* [Tips for Hybrid](hybrid-tips.md)
 
 ## Description
 
