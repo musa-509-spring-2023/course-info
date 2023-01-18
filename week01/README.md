@@ -9,3 +9,4 @@
 * [Join the class slack organization](https://join.slack.com/t/musa-tools-track/signup) with your UPenn email address
 * [SQL practice on Codecademy](https://www.codecademy.com/learn/learn-sql)
   * Complete **"Manipulation"** and **"Queries"** in the (free) _Learn SQL_ course on Codecademy
+  

@@ -165,7 +165,9 @@ Contains the syllabus, schedule, assignments, etc.
 
 ## Class format
 
-...
+- The course will be divided between lectures during the first half of class sessions, and exercises/labs in the second half.
+- Lab sessions will be interactive, usually with some deliverable expected by the end that will make up part of the participation portion of a student's grade.
+- Students will have the option of attending the lecture and lab sessions in person in the classroom, or virtually through Zoom.
 
 ---
 
