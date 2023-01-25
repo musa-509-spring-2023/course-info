@@ -1,16 +1,16 @@
 # MUSA 509: Geospatial Cloud Computing & Visualization - Syllabus
 
 * **Instructor(s):**
-  * Mjumbe Poe, mjumbe@design.upenn.edu  
+  * Mjumbe Poe, mjumbe@design.upenn.edu
   * Jingyi Li, jingyili@design.upenn.edu
-* **Schedule:** Wednesdays, 10:15-1:15  
+* **Schedule:** Wednesdays, 10:15-1:15
+* **Room:** Meyerson Hall, B2
 * **Office Hours:**
   * Mjumbe:
     * In person Wednesdays immediately after class, first-come first-served
-    * Online Mondays & Thursday, 1-5 (or by appointment) - [book here](https://calendly.com/mjumbe-upenn/office-hours)
+    * Online Mondays 1:00 - 5:00 & Thursday, 1:00 - 3:30 - [book here](https://calendly.com/mjumbe-upenn/office-hours)
   * Jingyi:
     * In person (Meyerson 406) or via Zoom on Tuesdays 11:30a - 1:30p & Thursdays 12:00p - 1:00p - [book here](https://calendly.com/jingyili-ta/musa5090-spring-2023-office-hour)
-* **Room:** Meyerson Hall, B2
 
 [Description](#description) | [Schedule](#course-schedule) | [Objectives](#course-objectives) | [Format](#format) | [Assignments](#assignments) | [Grading](#grading) | [Academic Integrity](#academic-integrity)
 
@@ -34,9 +34,9 @@ The class is divided into four modules:
 |  W#  |  Date  |  Topic  |  Notes  |
 |------|--------|---------|---------|
 |  1   |  Jan 18  |  Introduction  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week01/SLIDES.html) & [More](week01/)  |
-|  2   |  Jan 25  |  _Analytics_: Spatial Databases & Querying  |    |
-|  3   |  Feb 1   |  _Analytics_: PostGIS & Geospatial SQL Operations  |    |
-|  4   |  Feb 8   |  _Analytics_: Efficient PostGIS  |    |
+|  2   |  Jan 25  |  _Analytics_: Spatial Databases & Querying Geospatial Data  |    |
+|  3   |  Feb 1   |  _Analytics_: Joins & More Geospatial SQL Operations  |    |
+|  4   |  Feb 8   |  _Analytics_: Efficient Queries  |    |
 |  5   |  Feb 15  |  **-(OVERFLOW** -- _We'll introduce BigQuery and some out-of-the-box visualization options here, time permitting_ **)-**  |    |
 |  6   |  Feb 22  |  _Scripting_: Working with Data from Files and Web Services  |    |
 |  7   |  Mar 1   |  _Scripting_: Warehousing Data  |    |
