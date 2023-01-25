@@ -34,7 +34,7 @@ The class is divided into four modules:
 |  W#  |  Date  |  Topic  |  Notes  |
 |------|--------|---------|---------|
 |  1   |  Jan 18  |  Introduction  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week01/SLIDES.html) & [More](week01/)  |
-|  2   |  Jan 25  |  _Analytics_: Spatial Databases & Querying Geospatial Data  |    |
+|  2   |  Jan 25  |  _Analytics_: Spatial Databases & Querying Geospatial Data  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week02/SLIDES.html) & [More](https://github.com/musa-509-spring-2023/course-info/tree/main/week02)  |
 |  3   |  Feb 1   |  _Analytics_: Joins & More Geospatial SQL Operations  |    |
 |  4   |  Feb 8   |  _Analytics_: Efficient Queries  |    |
 |  5   |  Feb 15  |  **-(OVERFLOW** -- _We'll introduce BigQuery and some out-of-the-box visualization options here, time permitting_ **)-**  |    |
