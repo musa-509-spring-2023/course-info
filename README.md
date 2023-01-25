@@ -8,6 +8,8 @@
   * Mjumbe:
     * In person Wednesdays immediately after class, first-come first-served
     * Online Mondays & Thursday, 1-5 (or by appointment) - [book here](https://calendly.com/mjumbe-upenn/office-hours)
+  * Jingyi:
+    * In person (Meyerson 406) or via Zoom on Tuesdays 11:30a - 1:30p & Thursdays 12:00p - 1:00p - [book here](https://calendly.com/jingyili-ta/musa5090-spring-2023-office-hour)
 * **Room:** Meyerson Hall, B2
 
 [Description](#description) | [Schedule](#course-schedule) | [Objectives](#course-objectives) | [Format](#format) | [Assignments](#assignments) | [Grading](#grading) | [Academic Integrity](#academic-integrity)
