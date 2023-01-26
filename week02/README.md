@@ -7,4 +7,4 @@
 ## Assignments
 
 * [SQL practice on Codecademy](https://www.codecademy.com/learn/learn-sql)
-  * Complete **"Manipulation"** and **"Queries"** in the (free) _Learn SQL_ course on Codecademy
+  * Complete **"Aggregate Functions"** and **"Multiple Tables"** in the (free) _Learn SQL_ course on Codecademy
