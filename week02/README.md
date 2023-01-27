@@ -8,3 +8,4 @@
 
 * [SQL practice on Codecademy](https://www.codecademy.com/learn/learn-sql)
   * Complete **"Aggregate Functions"** and **"Multiple Tables"** in the (free) _Learn SQL_ course on Codecademy
+* Read up on `geography` in PostGIS: http://postgis.net/workshops/postgis-intro/geography.html (just read the introductory section, before 18.1)
