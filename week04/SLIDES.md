@@ -14,7 +14,9 @@ style: |
 
 ## Agenda
 1. Testing your code
-1. Some things I'm seeing
+1. Things to look out for in your assignment (Meyerson location, integer division)
+1. Database Indexes
+1. Explaining/analyzing your query plans
 
 ---
 
@@ -918,7 +920,7 @@ CREATE INDEX IF NOT EXISTS bus_stops_geog_idx
 
 ---
 
-# Let's try an example -- Find the nearest bus stop to each property parcel in Philadelphia
+# Let's try an example -- _Find the nearest bus stop to each property parcel in Philadelphia_
 
 ---
 
@@ -933,6 +935,8 @@ septa_bus_stops as (
     from septa.bus_stops
 )
 
+-- Find the bus stop nearest to each property parcel. This is a K-Nearest
+-- Neighbors (KNN) calculation with K=1.
 select
     pwd_parcels.address,
     pwd_parcels.geog,
@@ -945,3 +949,11 @@ cross join lateral (
     limit 1
 ) as nearest_bus_stop
 ```
+
+---
+
+## Notes on the example:
+
+- The query uses a `LATERAL` join to essentially create a new table for each row of the `pwd_parcels` table. Lateral joins are frequently used for KNN calculations. We could increase the value of `K` by increasing the number of results returned in the subquery (e.g., `limit 5` for the nearest 5 transit stations).
+
+- The query uses a [PostGIS distance operator](https://postgis.net/docs/geometry_distance_knn.html) instead of the `ST_Distance` function -- the latter does not use spatial indexes. The distance operator is only intended to be used when ordering results by distance (which is such a common thing that it gets it own operator!).
