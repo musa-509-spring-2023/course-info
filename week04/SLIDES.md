@@ -954,6 +954,6 @@ cross join lateral (
 
 ## Notes on the example:
 
-- The query uses a `LATERAL` join to essentially create a new table for each row of the `pwd_parcels` table. Lateral joins are frequently used for KNN calculations. We could increase the value of `K` by increasing the number of results returned in the subquery (e.g., `limit 5` for the nearest 5 transit stations).
+- The query uses a `LATERAL` join to essentially create a new table for each row of the `pwd_parcels` table. Lateral joins are frequently used for [KNN calculations in PostGIS](https://postgis.net/workshops/postgis-intro/knn.html#nearest-neighbor-join). We could increase the value of `K` by increasing the number of results returned in the subquery (e.g., `limit 5` for the nearest 5 transit stations).
 
 - The query uses a [PostGIS distance operator](https://postgis.net/docs/geometry_distance_knn.html) instead of the `ST_Distance` function -- the latter does not use spatial indexes. The distance operator is only intended to be used when ordering results by distance (which is such a common thing that it gets it own operator!).
