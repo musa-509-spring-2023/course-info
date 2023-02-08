@@ -919,3 +919,29 @@ CREATE INDEX IF NOT EXISTS bus_stops_geog_idx
 ---
 
 # Let's try an example -- Find the nearest bus stop to each property parcel in Philadelphia
+
+---
+
+```sql
+with
+
+-- Create a CTE for the bus stops that includes a geography column
+septa_bus_stops as (
+    select
+        *,
+        st_makepoint(stop_lon, stop_lat)::geography as geog
+    from septa.bus_stops
+)
+
+select
+    pwd_parcels.address,
+    pwd_parcels.geog,
+    nearest_bus_stop.*
+from phl.pwd_parcels
+cross join lateral (
+    select *
+    from septa_bus_stops as bus_stops
+    order by pwd_parcels.geog <-> bus_stops.geog
+    limit 1
+) as nearest_bus_stop
+```
