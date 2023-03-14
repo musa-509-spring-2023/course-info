@@ -38,8 +38,8 @@ The class is divided into four modules:
 |  3   |  Feb 1   |  _Analytics_: Joins & More Geospatial SQL Operations  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week03/SLIDES.html) & [More](https://github.com/musa-509-spring-2023/course-info/tree/main/week03)  |
 |  4   |  Feb 8   |  _Analytics_: Efficient Queries  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week04/SLIDES.html) & [More](https://github.com/musa-509-spring-2023/course-info/tree/main/week04)  |
 |  5   |  Feb 15  |  **-(OVERFLOW** -- _We'll introduce BigQuery and some out-of-the-box visualization options here, time permitting_ **)-**  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week05/SLIDES.html) & [More](https://github.com/musa-509-spring-2023/course-info/tree/main/week05)  |
-|  6   |  Feb 22  |  _Scripting_: Working with Data from Files and Web Services  |    |
-|  7   |  Mar 1   |  _Scripting_: Warehousing Data  |    |
+|  6   |  Feb 22  |  _Scripting_: Working with Data from Files and Web Services  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week06/SLIDES.html) & [More](https://github.com/musa-509-spring-2023/course-info/tree/main/week06)  |
+|  7   |  Mar 1   |  _Scripting_: More Extracting Data  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week07/SLIDES.html) & [More](https://github.com/musa-509-spring-2023/course-info/tree/main/week07)  |
 |  -   |  Mar 8   |  **-(SPRING BREAK)-**  |  -  |
 |  8   |  Mar 15  |  _Pipelines_: Modeling and Transforming Geospatial Data  |    |
 |  9   |  Mar 22  |  _Pipelines_: Implementing ETL in Cloud Services  |   |

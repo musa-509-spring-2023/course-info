@@ -8,7 +8,7 @@ style: |
   }
 ---
 
-# ...
+# More **E**xtracting and **t**ransforming
 
 ---
 
@@ -108,17 +108,3 @@ npm install --save \
 </div>
 </div>
 
----
-
-### Extracting zip files like GTFS
-
----
-
-### Preparing zip files like GTFS
-
-We're going to transform the files in CSV format into ... other files in CSV format.
-
-* Not as useless as it seems!
-* Opportunity to clean up files, standardize column names, etc.
-
-<!-- Some of you may have already run into the fact that PostgreSQL's copy chokes on some of the GTFS files from SEPTA. This is not uncommon. Many GTFS feeds have validation errors because of how they were generated. We have to deal with it (though we should get in touch with data producers and let them know about data quality issues when we can). -->

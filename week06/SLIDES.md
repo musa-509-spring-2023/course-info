@@ -8,7 +8,7 @@ style: |
   }
 ---
 
-# Data Pipelines: Extracting/Loading with JavaScript/Python
+# Scripting Data Pipelines: Extracting with JavaScript/Python
 
 ---
 
@@ -18,10 +18,6 @@ style: |
   - Downloading data over HTTP
   - Working with geospatial file formats
   - Working with other file formats (like zip)
-- Loading
-  - Programming with cloud infrastructure
-    - Writing to Google Cloud Storage
-    - Running queries in BigQuery
 
 ---
 
@@ -109,12 +105,4 @@ Instead of this:
 Do this:
 
 ![Extract and load in a single script width:1200px](images/separate-extract-and-load-sequences.svg)
-
----
-
-
-
----
-
-### Working with geospatial file formats
 
