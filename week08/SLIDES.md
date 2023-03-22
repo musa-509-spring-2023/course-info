@@ -219,3 +219,15 @@ This is going to be largely the same as we did for the raw data bucket, except o
 
 ---
 
+## Create a service account
+
+This service account will be responsible for doing all the things that need to be done in our data pipeline:
+
+- Reading from and writing to GCS
+- Reading from and writing to BigQuery
+- Invoking Cloud Functions
+- Invoking Workflows
+
+---
+
+...
