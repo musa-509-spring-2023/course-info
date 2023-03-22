@@ -25,6 +25,12 @@ You'll also have to adjust the permissions for your service account so that it c
 
 ---
 
+![bg height:600px](images/workflows-diagram.png)
+
+
+
+---
+
 ## Install the `gcloud` command line tool
 
 You can do everything we're going to do through the GUI (the Google Cloud Console), but most of it will be faster through the CLI. You can install the `gcloud` command line tool by following the instructions [here](https://cloud.google.com/sdk/docs/install-sdk). Follow those instructions at least through the _Initialize the gcloud CLI_ section.
