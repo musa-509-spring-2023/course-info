@@ -41,8 +41,8 @@ The class is divided into four modules:
 |  6   |  Feb 22  |  _Scripting_: Working with Data from Files and Web Services  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week06/SLIDES.html) & [More](https://github.com/musa-509-spring-2023/course-info/tree/main/week06)  |
 |  7   |  Mar 1   |  _Scripting_: More Extracting Data  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week07/SLIDES.html) & [More](https://github.com/musa-509-spring-2023/course-info/tree/main/week07)  |
 |  -   |  Mar 8   |  **-(SPRING BREAK)-**  |  -  |
-|  8   |  Mar 15  |  _Pipelines_: Implementing ETL in Cloud Services  |    |
-|  9   |  Mar 22  |  _Pipelines_: Modeling and Transforming Geospatial Data  |   |
+|  8   |  Mar 15  |  _Pipelines_: Implementing ETL in Cloud Services  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week08/SLIDES.html) & [More](https://github.com/musa-509-spring-2023/course-info/tree/main/week08)  |
+|  9   |  Mar 22  |  _Pipelines_: Deploying to the cloud  |  [Slides](https://musa-509-spring-2023.github.io/course-info/week09/SLIDES.html) & [More](https://github.com/musa-509-spring-2023/course-info/tree/main/week09)  |
 |  10  |  Mar 29  |  _Interfaces_: Open Source Business Intelligence Tools  |   |
 |  11  |  Apr 5   |  _Interfaces_: Rendering Data with Custom Applications (APIs and Templates)  |   |
 |  12  |  Apr 12  |    |   |
